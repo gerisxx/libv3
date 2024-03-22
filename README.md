@@ -11,6 +11,7 @@ local uilibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kie
 ```lua
 local windowz = uilibrary:CreateWindow("Syrex Hub", "Pet Simulator 99", true)
 ```
+### Section Example 
 
 ```lua
 local Section1 = Page1:CreateSection("Section Name")
